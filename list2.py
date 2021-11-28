@@ -1,0 +1,10 @@
+name = []
+name.append("Денис")
+name.append("Рома")
+name.append("Тима")
+name.append("Юлия")
+name.append("Артем")
+name.append("Ярик")
+print(name)
+name.insert(1, "Дима")
+print(name)
